@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing:border-box;
+  }
+  h1{
+  text-align: center;
+  font-family: 'Jacques Francois Shadow', cursive;
+}
+#quote{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
